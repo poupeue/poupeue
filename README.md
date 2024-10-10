@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @poupeue
-- 👀 I’m interested in unblocking schools computing and getting the most maxed out school computer
-- 🌱 I’m currently learning how to use javascript
-- 💞️ I’m looking to collaborate on helping to obfuscate and edit codes
+- 👀 I’m interested in making some lua scripts
+- 🌱 I’m currently learning how to use lua
 - 📫 How to reach me IDK
 
 <!---
