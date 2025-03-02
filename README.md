@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @poupeue
-- 👀 I’m interested in making some lua scripts
+- 👋 Hi, I’m @Petah
+- 👀 I’m interested in making some lua scripts for roblox
 - 🌱 I’m currently learning how to use lua
-- 📫 How to reach me IDK
+- You can contact me through my discord server: Discorn.gg/NEqDNkjz
 
 <!---
 poupeue/poupeue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
